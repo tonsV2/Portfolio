@@ -74,8 +74,10 @@ This app lets you remove or freeze system apps.
 
 
 ==================
+<img alt="" src="images/danish_live_tv_logo.png" />
 ### Danish Live TV
-<img alt="" src="images/danish_live_tv_logo.png" />Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
+
+Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
 
 By wrapping links to live streaming of danish public services channels in a listview and presenting that as the sole content of an app I got more than 60000 downloads and more then 21000 active users. At one point I was in the top five of most downloaded apps in the danish app store.
 
