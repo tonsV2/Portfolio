@@ -6,9 +6,9 @@ The following is a list of apps I something highlight...
 ## SMS Wakeup
 Small app designed to aide the heavy slepper getting out of bed.
 
-<img alt="" src="https://lh5.ggpht.com/0jrPS5iEo2jRFJO7XRiPxA-NIdS-En7UDDF0vLTMaZ9nNlyLTy-ISsDmEDq1u4aiAe4=h900-rw" />
-<img alt="" src="https://lh4.ggpht.com/VcaSob-KV6qKiPrJ9nBSHgalneozeoo8FBw-McbqAfldnZeANmeYtON5_ALLboQTUyE=h900-rw" />
-<img alt="" src="https://lh3.ggpht.com/WRMlzy58pCAtLpBEbW-XxUl2gceoHaUHV3cUkPggBJ_62AWyARCtlNEmPc4PE2rTk5Yq=h900-rw" />
+<img alt="" width="200px" src="https://lh5.ggpht.com/0jrPS5iEo2jRFJO7XRiPxA-NIdS-En7UDDF0vLTMaZ9nNlyLTy-ISsDmEDq1u4aiAe4=h900-rw" />
+<img alt="" width="200px" src="https://lh4.ggpht.com/VcaSob-KV6qKiPrJ9nBSHgalneozeoo8FBw-McbqAfldnZeANmeYtON5_ALLboQTUyE=h900-rw" />
+<img alt="" width="200px" src="https://lh3.ggpht.com/WRMlzy58pCAtLpBEbW-XxUl2gceoHaUHV3cUkPggBJ_62AWyARCtlNEmPc4PE2rTk5Yq=h900-rw" />
 
 
 Keywords: SMS Broadcast Receiver, Content Provider, Sqlite
