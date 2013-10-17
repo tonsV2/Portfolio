@@ -4,6 +4,7 @@ The following is a list of apps I something highlight...
 
 
 ### SMS Wakeup
+==============
 Small app designed to aide the heavy slepper getting out of bed.
 
 **Keywords**: SMS Broadcast Receiver, Custom Content Provider, Sqlite, CursorLoader
@@ -18,6 +19,7 @@ Small app designed to aide the heavy slepper getting out of bed.
 
 
 ### Where Are You?
+==================
 More people than you should think are unable to share their own location with others. This app takes the reverse approche and let you request the location of someone else. It does so by sending an SMS containing a link for the receiver to click. When the user clicks the link it is taken to a website which requests the location using Javascript and submits the location to a server which sends it back to the app.
 
 **Keywords**: Contact Provider, Custom Content Provider, CursorLoader, Google maps, Google Cloud Messages
@@ -33,12 +35,14 @@ More people than you should think are unable to share their own location with ot
 
 
 ### Where Are You? GAE
+======================
 The backend for my "Where Are You?" app described above.
 
 **Keywords**: AppEngine, GCM, Javascript, AJAX
 
 
 ### Bloatware Remover
+=====================
 This app lets you remove or freeze system apps.
 
 **Keywords**: PackageManager, Root, AsyncTaskLoader
@@ -49,6 +53,7 @@ This app lets you remove or freeze system apps.
  
 
 ### Danish Live TV
+==================
 Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
 
 By wrapping links to live streaming of danish public services channels in a listview and presenting that as the sole content of an app I got more than 60000 downloads and more then 21000 active users. At one point I was in the top five of most downloaded apps in the danish app store.
