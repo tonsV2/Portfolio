@@ -78,6 +78,13 @@ The backend for my "Where Are You?" app described above.
 
 This app lets you remove or freeze system apps.
 
+This app is only released for beta testing. In order to test join [this](https://plus.google.com/communities/107237907630988713276) community at <http://plus.google.com>.
+
+#### Features
+* Delete system apps
+* Freeze system apps
+* Detect bloatware (comes with list of known bloatware)
+
 **Keywords**: PackageManager, Root, AsyncTaskLoader
 
 <img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
