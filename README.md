@@ -6,7 +6,7 @@ The following is a list of apps I something highlight...
 ### SMS Wakeup
 Small app designed to aide the heavy slepper getting out of bed.
 
-**Keywords**: SMS Broadcast Receiver, Content Provider, Sqlite, CursorLoader
+**Keywords**: SMS Broadcast Receiver, Custom Content Provider, Sqlite, CursorLoader
 
 <img alt="" width="200px" src="https://lh5.ggpht.com/0jrPS5iEo2jRFJO7XRiPxA-NIdS-En7UDDF0vLTMaZ9nNlyLTy-ISsDmEDq1u4aiAe4=h900-rw" />|
 <img alt="" width="200px" src="https://lh4.ggpht.com/VcaSob-KV6qKiPrJ9nBSHgalneozeoo8FBw-McbqAfldnZeANmeYtON5_ALLboQTUyE=h900-rw" />|
@@ -41,15 +41,15 @@ The backend for my "Where Are You?" app described above.
 ### Bloatware Remover
 This app lets you remove or freeze system apps.
 
+**Keywords**: PackageManager, Root, AsyncTaskLoader
+
 <img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/f8p8M9eWMWZC0sCOIrke5-yYWmku9pff0frIQ4XRGRcMhtebu0SniFTiXrJ8zmMoKA=h900-rw" />|
 <img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
-
-**Keywords**: PackageManager, Root, AsyncTaskLoader
  
 
 ### Danish Live TV
-Perhaps the simplest pice of software that I've ever have written but still the most successful and widely used.
+Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
 
 By wrapping links to live streaming of danish public services channels in a listview and presenting that as the sole content of an app I got more than 60000 downloads and more then 21000 active users. At one point I was in the top five of most downloaded apps in the danish app store.
 
@@ -58,5 +58,4 @@ However this apps life was short lived and abruptly ended by the laywers represe
 <img alt="" width="200px" src="https://lh3.ggpht.com/qnATxTXzfwnJB_oG-jUHf9tIRlI0KgtU8rek2vY_1FQZb7XFWn_xznUh8pGwkY-lvUs=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/PlwAQI-B9quqRDNxANPnPB1GAaqB1xRgQqPYD6IUoTywMw6mlLibuU8GiFJv74bOxW8=h900-rw" />|
 <img alt="" width="400px" src="https://lh3.ggpht.com/WnqsZVGs1kEZBamEZzov8sUsR-_qtpbyEoqSlXg0l-Euh8VG_M-_Ahk7M_Ftz43y1fw=h900-rw" />
-
 
