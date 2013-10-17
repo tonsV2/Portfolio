@@ -16,6 +16,9 @@ When Samsung launched a semilair project I discontinued the development because 
 * Locate phone
 * Hide/unhide app from app drawer
 * Various message commands
+* Simcard verifier
+* More.
+
 
 **Keywords**: RubyOnRails, REST, Postgresql, Android, GCM, Javascript, Google Maps, Sass, HAML and more.
 
