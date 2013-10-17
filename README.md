@@ -1,6 +1,27 @@
 
 # Portfolio
-The following is a list of apps I something highlight...
+The following is a small list of apps I something highlight...
+
+===============
+### Teletracker
+People loose their phones all the time. Often by theft.
+
+Imagin if each time a phone was sold the the buyer would pay an extra $5 - $10 for the sales rep to install a piece of tracking software. I would like that software to be mine.
+
+The problem with a project like this is that unless you are an OEM or the phone is rooted you can eliminate the app by doing a factory reset.
+
+When Samsung launched a semilair project I discontinued the development because I felt it would be impossible to compete. Later on google also launched Device Manager. However both of these projects are still less featurefull and neither can handle a factory reset.
+
+#### Features
+* Locate phone
+* Hide/unhide app from app drawer
+* Various message commands
+
+**Keywords**: RubyOnRails, REST, Postgresql, Android, GCM, Javascript, Google Maps, Sass, HAML and more.
+
+<img alt="" width="300px" src="images/teletracker_devices.png" />
+<img alt="" width="300px" src="images/teletracker_locate.png" />
+<img alt="" width="300px" src="images/teletracker_info.png" />
 
 
 ==============
@@ -50,11 +71,11 @@ This app lets you remove or freeze system apps.
 <img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/f8p8M9eWMWZC0sCOIrke5-yYWmku9pff0frIQ4XRGRcMhtebu0SniFTiXrJ8zmMoKA=h900-rw" />|
 <img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
- 
+
 
 ==================
 ### Danish Live TV
-Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
+<img alt="" src="images/danish_live_tv_logo.png" />Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
 
 By wrapping links to live streaming of danish public services channels in a listview and presenting that as the sole content of an app I got more than 60000 downloads and more then 21000 active users. At one point I was in the top five of most downloaded apps in the danish app store.
 
