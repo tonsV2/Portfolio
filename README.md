@@ -8,19 +8,18 @@ The following is a small list of projects I developed.
 
 People loose their phones all the time. Often by theft.
 
-Imagine if each time a phone was sold the the buyer would pay an extra $5 - $10 for the sales rep to install a piece of tracking software. I would like that software to be mine.
+Imagine if each time a phone was sold, that the buyer would pay an extra $5 - $10 for the sales rep to install a piece of tracking software. I would like that software to be mine.
 
-The challenge with a project like this is that unless you are an OEM or the phone is rooted you can eliminate the app by doing a factory reset.
+The problem with a project like this is, that unless you are an OEM, or the phone is rooted, you can eliminate the app by doing a factory reset.
 
-When Samsung launched a similar project I discontinued the development because I felt it would be impossible to compete. Later on, Google also launched Device Manager. However both of these projects are still less featurefull and neither can handle a factory reset.
-
+However, when Samsung launched a similair project, I discontinued the development, because I felt it would be impossible to compete. Later on google also launched Device Manager. Yet both of these projects are still less featurefull and neither can handle a factory reset.
 
 #### Features
 * Locate phone
 * Hide/unhide app from app drawer
 * Various message commands
 * Simcard verifier
-* More.
+* More
 
 
 **Keywords**: RubyOnRails, REST, Postgresql, Android, GCM, Javascript, Google Maps, Sass, HAML and more.
@@ -35,7 +34,6 @@ When Samsung launched a similar project I discontinued the development because I
 <img alt="" width="96px" src="https://lh3.ggpht.com/6GGfhBQ6kYmA3Pm8Fs10WZ1yZaXMoMvCAMqaQDkdagzrxgOMCJuy9jS3_RsNxYX7hQU=w300-rw" />
 
 Small app designed to aid the heavy sleeper getting out of bed.
-
 
 **Keywords**: SMS Broadcast Receiver, Custom Content Provider, Sqlite, CursorLoader
 
@@ -52,8 +50,7 @@ Small app designed to aid the heavy sleeper getting out of bed.
 ### Where Are You?
 <img alt="" width="96px" src="https://lh6.ggpht.com/8JPOJucOGC8S7QqhK1Ea9kKDTqldmacTHqW8bM0bqzEFtseSmczTVK8Svf_jZNna8A=w300-rw" />
 
-More people than you should think are unable to share their own location with others. This app takes the reverse approach and let you request the location of someone else. It does so by sending an SMS containing a link for the receiver to click. When the user clicks the link it is taken to a website which requests the location using Javascript and submits the location to a server which sends it back to the app.
-
+More people than you imagine are unable to share their own location with others. This app takes the reverse approach and let you request the location of someone else. It does so by sending an SMS containing a link for the receiver to click. When the user clicks the link, it is taken to a website which requests the location using Javascript and submits the location to a server sending it back to the app.
 
 **Keywords**: Contact Provider, Custom Content Provider, CursorLoader, Google maps, AppEngine, GCM, Javascript, AJAX
 
@@ -92,12 +89,11 @@ This app lets you remove or freeze system apps.
 ### Danish Live TV
 <img alt="" src="images/danish_live_tv_logo.png" />
 
-Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
+Perhaps the simplest piece of software that I've ever written, but still the most successful and widely used.
 
-By wrapping links to live streaming of danish public services channels in a listview and presenting that as the sole content of an app I got more than 60000 downloads and more then 21000 active users. At one point I was in the top five of most downloaded apps in the danish app store.
+By wrapping links to live streaming of Danish public service channels in a listview and presenting that as the sole content of an app, I got more than 60.000 downloads and more than 21.000 active users. At one point I was in the top five of most downloaded apps in the Danish app store.
 
-However this apps life was short lived and abruptly ended by the laywers representing DR. I made it as a hobby project. I said they could have it. With source code and all.  DR still hasn't made their own app.
-
+However this apps life was short lived and abruptly ended by the laywers representing DR! I told them that they could have it for free. With source code and all. An offer for fun, becuase I saw a need. DR still hasn't made their own app.
 
 <img alt="" width="200px" src="https://lh3.ggpht.com/qnATxTXzfwnJB_oG-jUHf9tIRlI0KgtU8rek2vY_1FQZb7XFWn_xznUh8pGwkY-lvUs=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/PlwAQI-B9quqRDNxANPnPB1GAaqB1xRgQqPYD6IUoTywMw6mlLibuU8GiFJv74bOxW8=h900-rw" />|
