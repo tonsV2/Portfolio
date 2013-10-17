@@ -3,8 +3,8 @@
 The following is a list of apps I something highlight...
 
 
-### SMS Wakeup
 ==============
+### SMS Wakeup
 Small app designed to aide the heavy slepper getting out of bed.
 
 **Keywords**: SMS Broadcast Receiver, Custom Content Provider, Sqlite, CursorLoader
