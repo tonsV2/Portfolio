@@ -35,7 +35,7 @@ More people than you should think are unable to share their own location with ot
 ### Where Are You? GAE
 The backend for my "Where Are You?" app described above.
 
-**Keywords**: AppEngine, GCM
+**Keywords**: AppEngine, GCM, Javascript, AJAX
 
 
 ### Bloatware Remover
