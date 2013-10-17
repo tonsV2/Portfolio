@@ -3,8 +3,8 @@
 The following is a small list of projects I developed.
 
 ===============
-<img alt="" width="48px" src="https://lh3.ggpht.com/GMaKmV3XXr5y_mHor3BNSvfeaURg7NCSHmzAR3rlXsxOVyGfyFLK55NT0wI=w300-rw" />
 ### Teletracker
+<img alt="" width="96px" src="https://lh3.ggpht.com/GMaKmV3XXr5y_mHor3BNSvfeaURg7NCSHmzAR3rlXsxOVyGfyFLK55NT0wI=w300-rw" />
 People loose their phones all the time. Often by theft.
 
 Imagin if each time a phone was sold the the buyer would pay an extra $5 - $10 for the sales rep to install a piece of tracking software. I would like that software to be mine.
@@ -29,8 +29,8 @@ When Samsung launched a semilair project I discontinued the development because 
 
 
 ==============
-<img alt="" width="48px" src="https://lh3.ggpht.com/6GGfhBQ6kYmA3Pm8Fs10WZ1yZaXMoMvCAMqaQDkdagzrxgOMCJuy9jS3_RsNxYX7hQU=w300-rw" />
 ### SMS Wakeup
+<img alt="" width="96px" src="https://lh3.ggpht.com/6GGfhBQ6kYmA3Pm8Fs10WZ1yZaXMoMvCAMqaQDkdagzrxgOMCJuy9jS3_RsNxYX7hQU=w300-rw" />
 Small app designed to aide the heavy slepper getting out of bed.
 
 **Keywords**: SMS Broadcast Receiver, Custom Content Provider, Sqlite, CursorLoader
@@ -45,8 +45,8 @@ Small app designed to aide the heavy slepper getting out of bed.
 
 
 ==================
-<img alt="" width="48px" src="https://lh6.ggpht.com/8JPOJucOGC8S7QqhK1Ea9kKDTqldmacTHqW8bM0bqzEFtseSmczTVK8Svf_jZNna8A=w300-rw" />
 ### Where Are You?
+<img alt="" width="96px" src="https://lh6.ggpht.com/8JPOJucOGC8S7QqhK1Ea9kKDTqldmacTHqW8bM0bqzEFtseSmczTVK8Svf_jZNna8A=w300-rw" />
 More people than you should think are unable to share their own location with others. This app takes the reverse approche and let you request the location of someone else. It does so by sending an SMS containing a link for the receiver to click. When the user clicks the link it is taken to a website which requests the location using Javascript and submits the location to a server which sends it back to the app.
 
 **Keywords**: Contact Provider, Custom Content Provider, CursorLoader, Google maps, Google Cloud Messages
@@ -69,8 +69,8 @@ The backend for my "Where Are You?" app described above.
 
 
 =====================
-<img alt="" width="48px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
 ### Bloatware Remover
+<img alt="" width="96px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
 This app lets you remove or freeze system apps.
 
 **Keywords**: PackageManager, Root, AsyncTaskLoader
@@ -81,8 +81,8 @@ This app lets you remove or freeze system apps.
 
 
 ==================
-<img alt="" src="images/danish_live_tv_logo.png" />
 ### Danish Live TV
+<img alt="" src="images/danish_live_tv_logo.png" />
 
 Perhaps the simplest pice of software that I've ever written but still the most successful and widely used.
 
