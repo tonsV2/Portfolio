@@ -19,8 +19,8 @@ When Samsung launched a semilair project I discontinued the development because 
 
 **Keywords**: RubyOnRails, REST, Postgresql, Android, GCM, Javascript, Google Maps, Sass, HAML and more.
 
-<img alt="" width="300px" src="images/teletracker_devices.png" />
-<img alt="" width="300px" src="images/teletracker_locate.png" />
+<img alt="" width="300px" src="images/teletracker_devices.png" />|
+<img alt="" width="300px" src="images/teletracker_locate.png" />|
 <img alt="" width="300px" src="images/teletracker_info.png" />
 
 
