@@ -52,7 +52,7 @@ Small app designed to aide the heavy slepper getting out of bed.
 
 More people than you should think are unable to share their own location with others. This app takes the reverse approche and let you request the location of someone else. It does so by sending an SMS containing a link for the receiver to click. When the user clicks the link it is taken to a website which requests the location using Javascript and submits the location to a server which sends it back to the app.
 
-**Keywords**: Contact Provider, Custom Content Provider, CursorLoader, Google maps, Google Cloud Messages
+**Keywords**: Contact Provider, Custom Content Provider, CursorLoader, Google maps, AppEngine, GCM, Javascript, AJAX
 
 <img alt="" width="200px" src="https://lh5.ggpht.com/PIK8AaIZsCOt-E3eAhQCZpRjTpd0SiGeEPY5Qd9CnhRL0LXIrFh-nxbfZvnyQOU4mhE=h900-rw" />|
 <img alt="" width="200px" src="https://lh5.ggpht.com/jUY5aiPRvOVN6PXYnILANRQbP8pzcTtS-yd2tKOfNSt_VxYxDgQhoebfEqzVnu1FFks=h900-rw" />|
@@ -63,12 +63,13 @@ More people than you should think are unable to share their own location with ot
 
 **Github**: https://github.com/snot/WhereAreYouApp
 
-
+<!--
 ======================
 ### Where Are You? GAE
 The backend for my "Where Are You?" app described above.
 
 **Keywords**: AppEngine, GCM, Javascript, AJAX
+-->
 
 
 =====================
