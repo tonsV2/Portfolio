@@ -2,6 +2,26 @@
 # Portfolio
 The following is a small list of projects I developed.
 
+=====================
+### Bloatware Remover
+<img alt="" width="96px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
+
+This app lets you remove or freeze system apps.
+
+This app is only released for beta testing. In order to test join [this](https://plus.google.com/communities/107237907630988713276) community at <http://plus.google.com>.
+
+#### Features
+* Delete system apps
+* Freeze system apps
+* Detect bloatware (comes with list of known bloatware)
+
+**Keywords**: PackageManager, Root, AsyncTaskLoader
+
+<img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
+<img alt="" width="200px" src="https://lh6.ggpht.com/f8p8M9eWMWZC0sCOIrke5-yYWmku9pff0frIQ4XRGRcMhtebu0SniFTiXrJ8zmMoKA=h900-rw" />|
+<img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
+
+
 ===============
 ### Teletracker
 <img alt="" width="96px" src="https://lh3.ggpht.com/GMaKmV3XXr5y_mHor3BNSvfeaURg7NCSHmzAR3rlXsxOVyGfyFLK55NT0wI=w300-rw" />
@@ -70,26 +90,6 @@ The backend for my "Where Are You?" app described above.
 
 **Keywords**: AppEngine, GCM, Javascript, AJAX
 -->
-
-
-=====================
-### Bloatware Remover
-<img alt="" width="96px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
-
-This app lets you remove or freeze system apps.
-
-This app is only released for beta testing. In order to test join [this](https://plus.google.com/communities/107237907630988713276) community at <http://plus.google.com>.
-
-#### Features
-* Delete system apps
-* Freeze system apps
-* Detect bloatware (comes with list of known bloatware)
-
-**Keywords**: PackageManager, Root, AsyncTaskLoader
-
-<img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
-<img alt="" width="200px" src="https://lh6.ggpht.com/f8p8M9eWMWZC0sCOIrke5-yYWmku9pff0frIQ4XRGRcMhtebu0SniFTiXrJ8zmMoKA=h900-rw" />|
-<img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
 
 
 ==================
