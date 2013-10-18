@@ -100,7 +100,7 @@ Perhaps the simplest piece of software that I've ever written, but still the mos
 
 By wrapping links to live streaming of Danish public service channels in a listview and presenting that as the sole content of an app, I got more than 60.000 downloads and more than 21.000 active users. At one point I was in the top five of most downloaded apps in the Danish app store.
 
-However this apps life was short lived and abruptly ended by the laywers representing DR! I told them that they could have it for free. With source code and all. An offer for fun, becuase I saw a need. DR still hasn't made their own app.
+However this apps life was short lived and abruptly ended by the laywers representing DR. I told them that they could have it for free. With source code and all. An offer for fun, becuase I saw a need. DR still hasn't made their own app.
 
 <img alt="" width="200px" src="https://lh3.ggpht.com/qnATxTXzfwnJB_oG-jUHf9tIRlI0KgtU8rek2vY_1FQZb7XFWn_xznUh8pGwkY-lvUs=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/PlwAQI-B9quqRDNxANPnPB1GAaqB1xRgQqPYD6IUoTywMw6mlLibuU8GiFJv74bOxW8=h900-rw" />|
