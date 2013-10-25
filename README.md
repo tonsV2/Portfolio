@@ -12,6 +12,7 @@ The following is a small list of projects I developed.
 
 [Danish Live TV](#danishlivetv)
 
+[Find A Water Tap](#findawatertap)
 
 
 <a name="bloatware" />
@@ -122,4 +123,25 @@ However this apps life was short lived and abruptly ended by the laywers represe
 <img alt="" width="200px" src="https://lh3.ggpht.com/qnATxTXzfwnJB_oG-jUHf9tIRlI0KgtU8rek2vY_1FQZb7XFWn_xznUh8pGwkY-lvUs=h900-rw" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/PlwAQI-B9quqRDNxANPnPB1GAaqB1xRgQqPYD6IUoTywMw6mlLibuU8GiFJv74bOxW8=h900-rw" />|
 <img alt="" width="400px" src="https://lh3.ggpht.com/WnqsZVGs1kEZBamEZzov8sUsR-_qtpbyEoqSlXg0l-Euh8VG_M-_Ahk7M_Ftz43y1fw=h900-rw" />
+
+
+<a name="findawatertap" />
+=====================
+### Find A Water Tap
+<img alt="" width="96px" src="https://lh5.ggpht.com/bNnuDiiQKDTIYQwtTLjvuQMaki6UcJeSGU-fejxvnJ0iGI1adve6aUlUDkeRJixoPjI=w300-rw" />
+
+This app lets you locate the nearest public place to get free drinkable water.
+
+The backend of this app could quickly be replaced with something else. Which means it could be used to find the nearest anything.
+
+This app is only released for beta testing. In order to test join [this](https://plus.google.com/communities/107237907630988713276) community.
+
+The source will be released when I find time to clean it up.
+
+**Keywords**: Custom Content Provider, SyncAdapter, Google Maps
+
+<img alt="" width="200px" src="https://lh4.ggpht.com/77f3uYabLgxTD1O8aB6mCfrVn8VHU29BUfcsdRWa2zu2L_DvtIve6X10iqxPbBNP5Pfn=h900-rw" />|
+<img alt="" width="200px" src="https://lh6.ggpht.com/8Fv0zQLB3_nuT2_37Slz67iJQK9bkHMElx46npzNJJmiwPTQ_wR3lxewTrTHGAYMCt03=h900-rw" />
+
+
 
