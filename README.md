@@ -3,9 +3,13 @@
 The following is a small list of projects I developed.
 
 [Bloatware Remover](#bloatware)
+
 [Teletracker](#teletracker)
+
 [SMS Wakeup](#smswakeup)
+
 [Where Are you?](#whereareyou)
+
 [Danish Live TV](#danishlivetv)
 
 
