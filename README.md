@@ -2,6 +2,15 @@
 # Portfolio
 The following is a small list of projects I developed.
 
+[Bloatware Remover](#bloatware)
+[Teletracker](#teletracker)
+[SMS Wakeup](#smswakeup)
+[Where Are you?](#whereareyou)
+[Danish Live TV](#danishlivetv)
+
+
+
+<a name="bloatware" />
 =====================
 ### Bloatware Remover
 <img alt="" width="96px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
@@ -22,6 +31,7 @@ This app is only released for beta testing. In order to test join [this](https:/
 <img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
 
 
+<a name="teletracker" />
 ===============
 ### Teletracker
 <img alt="" width="96px" src="https://lh3.ggpht.com/GMaKmV3XXr5y_mHor3BNSvfeaURg7NCSHmzAR3rlXsxOVyGfyFLK55NT0wI=w300-rw" />
@@ -49,6 +59,7 @@ However, when Samsung launched a similair project, I discontinued the developmen
 <img alt="" width="200px" src="images/teletracker_info.png" />
 
 
+<a name="smswakeup" />
 ==============
 ### SMS Wakeup
 <img alt="" width="96px" src="https://lh3.ggpht.com/6GGfhBQ6kYmA3Pm8Fs10WZ1yZaXMoMvCAMqaQDkdagzrxgOMCJuy9jS3_RsNxYX7hQU=w300-rw" />
@@ -66,6 +77,7 @@ Small app designed to aid the heavy sleeper getting out of bed.
 **Github**: https://github.com/snot/SMS-Wakeup
 
 
+<a name="whereareyou" />
 ==================
 ### Where Are You?
 <img alt="" width="96px" src="https://lh6.ggpht.com/8JPOJucOGC8S7QqhK1Ea9kKDTqldmacTHqW8bM0bqzEFtseSmczTVK8Svf_jZNna8A=w300-rw" />
@@ -92,6 +104,7 @@ The backend for my "Where Are You?" app described above.
 -->
 
 
+<a name="danishlivetv" />
 ==================
 ### Danish Live TV
 <img alt="" src="images/danish_live_tv_logo.png" />
