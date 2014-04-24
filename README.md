@@ -18,7 +18,7 @@ The following is a small list of projects I developed.
 <a name="bloatware" />
 =====================
 ### Bloatware Remover
-<img alt="" width="96px" src="https://lh4.ggpht.com/FyCGWunnTDzW3N3-03sv0gKCrs8wblzIjfwiTT2nO3tuJ9V5R6oOW-ee7ha16jA0sOg=h180" />
+<img alt="" width="96px" src="images/bloatware_logo.png" />
 
 This app lets you remove or freeze system apps.
 
@@ -31,7 +31,7 @@ This app is only released for beta testing. In order to test join [this](https:/
 
 **Keywords**: PackageManager, Root, AsyncTaskLoader
 
-<img alt="" width="200px" src="https://lh5.ggpht.com/XzvSVAt2LS-yxusdSE8auF25tmOJf2yIsv-w1ccCtLL7mKcAVBlb9mcnxs_JnXuP00g4=h900-rw" />|
+<img alt="" width="200px" src="images/bloatware_sh1.webp" />|
 <img alt="" width="200px" src="https://lh6.ggpht.com/f8p8M9eWMWZC0sCOIrke5-yYWmku9pff0frIQ4XRGRcMhtebu0SniFTiXrJ8zmMoKA=h900-rw" />|
 <img alt="" width="200px" src="https://lh4.ggpht.com/niB2BW33Enr_eQKd_L3RIv7lUVWz6oqccyydMAbE3tuBetyjSxBzBIT4ebeCqEZfCOg=h900-rw" />
 
