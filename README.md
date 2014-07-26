@@ -116,7 +116,7 @@ The backend for my "Where Are You?" app described above.
 
 Perhaps the simplest piece of software that I've ever written, but still the most successful and widely used.
 
-By wrapping links to live streaming of Danish public service channels in a listview and presenting that as the sole content of an app, I got more than 60.000 downloads and more than 21.000 active users. At one point I was in the top five of most downloaded apps in the Danish app store.
+By wrapping links to live streaming of Danish public service channels in a listview and presenting that as the sole content of an app, I got more than 60.000 downloads and more than 21.000 active users. At one point I was in the top five of most downloaded apps in the Danish app store. Competing with other apps such as Facebook, Skype and Spotify.
 
 However this apps life was short lived and abruptly ended by the laywers representing DR. I told them that they could have it for free. With source code and all. An offer for fun, becuase I saw a need. DR still hasn't made their own app.
 
