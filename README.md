@@ -77,8 +77,6 @@ Small app designed to aid the heavy sleeper getting out of bed.
 <img alt="" width="200px" src="images/smswakeup_sh2.png" />|
 <img alt="" width="200px" src="images/smswakeup_sh3.png" />
 
-**Play**: https://play.google.com/store/apps/details?id=com.snot.smswakeup
-
 **Github**: https://github.com/snot/SMS-Wakeup
 
 
@@ -95,8 +93,6 @@ More people than you imagine are unable to share their own location with others.
 <img alt="" width="200px" src="images/whereareyou_sh2.png" />|
 <img alt="" width="200px" src="images/whereareyou_sh3.png" />|
 <img alt="" width="200px" src="images/whereareyou_sh4.png" />
-
-**Play**: https://play.google.com/store/apps/details?id=com.snot.whereareyou
 
 **Github**: https://github.com/snot/WhereAreYouApp
 
